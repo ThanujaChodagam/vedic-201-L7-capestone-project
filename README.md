@@ -1,6 +1,8 @@
 # Full-Login-Dashboard-Node.js-Express.js-Passport.js-MongoDB
-Full Login/Reg Dashboard With Authentication
-
+Full Login/Register Dashboard With Authentication
+  
+  Youtube video link: https://youtu.be/Etkdt5uKwE8
+  
 - Dashboard Base https://demos.creative-tim.com/black-dashboard/
 
 - Dashboard Docs https://demos.creative-tim.com/black-dashboard/docs/1.0/components/buttons.html
